@@ -1,15 +1,15 @@
 # Excel-Analytics
 
 
-Project Title:
+**Project Title:**
 
 Excel Analytics Platform
 
-Overview:
+**Overview:**
 
 The Excel Analytics Platform is a web-based application designed to make data visualization simple and interactive. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform allows users to upload Excel files, analyze data through visual charts, and download visualizations in image formats for reporting or presentations.
 
-Key Features:
+**Key Features:**
 
 User Authentication:
 
@@ -33,7 +33,7 @@ History Management:
 
 Track and view previously uploaded Excel files and their visualized data.
 
-Technology Stack:
+**Technology Stack:**
 
 Frontend: React.js, Chart.js, Three.js, Tailwind CSS / Bootstrap
 
@@ -49,7 +49,7 @@ Multer: For handling file uploads
 
 JWT Authentication: For secure user sessions
 
-Use Case:
+**Use Case:**
 
 This platform is ideal for:
 
@@ -59,10 +59,3 @@ Small businesses analyzing sales or operational data.
 
 Professionals who want a quick, browser-based analytics solution without complex tools.
 
-Future Enhancements:
-
-Role-based dashboards (Admin/User)
-
-Real-time collaboration for multiple users
-
-AI-based data analysis suggestions
